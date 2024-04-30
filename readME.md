@@ -14,6 +14,7 @@ As a manager I want to mangage my employees payroll and so that i can keep track
 
 ## <ins> Mockup <ins>
 
-<img width="558" alt="image" src="https://github.com/CCUE96/Chris.Dev/assets/159393541/0d6daf59-1d0e-479a-b3f5-107d68d45ed9">
+<img width="520" alt="image" src="https://github.com/CCUE96/Payrollz/assets/159393541/94962f1a-a86e-433c-a2db-8b369fe27929">
+
 
 
